@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/uncluttermac">  
+<a href="https://get-software-osx.github.io/.github/uncluttermac">  
 <img src="https://img.shields.io/badge/Get_Unclutter_for_macOS-1976D2?style=for-the-badge&logo=apple" alt="Get Unclutter for macOS">  
 </a>  
 </div>  
